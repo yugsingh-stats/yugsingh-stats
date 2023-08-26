@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **large-scale predictive analytics & algorithm designs**
 
-- 🌱 I’m currently learning **Natural Language Processing**
+- 🌱 I’m currently learning **Advanced Predictive Analytics & Time Series**
 
 - 💬 Ask me about **statistics and machine learning**
 
 - 📫 How to reach me **yugjsingh@gmail.com**
 
-- ⚡ Fun fact **I love watching UFC and doing fitness**
+- ⚡ Fun fact **I love scuba diving**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
